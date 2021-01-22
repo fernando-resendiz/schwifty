@@ -12,4 +12,4 @@ const Home = () => {
     return view
 }
 
-export export default Home
+export default Home
